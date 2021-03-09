@@ -1,7 +1,7 @@
 ### Hello, Dev! 👋
 
 ### About me:
-- I'm developer at [CITi](https://citi.org.br/)
+- I'm developer at [CITi](https://github.com/CITi-UFPE)
 
 ### GitHub Stats: 
 [![](https://github-readme-stats.vercel.app/api?username=IgrPhillipe&layout=compact&theme=light)](https://github.com/IgrPhillipe) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgrPhillipe&layout=compact&theme=light)](https://github.com/IgrPhillipe/github-readme-stats)
