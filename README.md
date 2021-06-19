@@ -1,7 +1,7 @@
 ### Hello, Dev! 👋
 
 ### About me:
-- I'm developer at [CITi](https://github.com/CITi-UFPE)
+- I'm developer at Tracking Trade and [CITi](https://github.com/CITi-UFPE)
 
 ### GitHub Stats: 
 [![](https://github-readme-stats.vercel.app/api?username=IgrPhillipe&layout=compact&theme=dark)](https://github.com/IgrPhillipe) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgrPhillipe&layout=compact&theme=dark)](https://github.com/IgrPhillipe/github-readme-stats)
