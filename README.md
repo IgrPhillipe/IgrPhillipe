@@ -1,7 +1,10 @@
-### Igor Phillipe
 
-- Developer at [Loomi](https://github.com/loomi)
+## Hey there! 👋
 
-### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igrphillipe/)](https://www.linkedin.com/in/igrphillipe/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igrphillipe@gmail.com)](mailto:igrphillipe@gmail.com)
-  
+I'm a Full Stack Web Developer with a passion for building efficient and scalable applications using Node.js, React.js, JavaScript, and TypeScript 🚀.
+
+I'm always excited to learn new technologies and take on new challenges, and my current focus is on front-end development. I'm especially interested in React.js and Next.js, and I'm constantly expanding my knowledge to keep up with the latest trends and best practices 🤓.
+
+## Let's Connect! 📱
+
+Interested in connecting with me? Let's chat! You can send me a message on [LinkedIn](https://www.linkedin.com/in/igrphillipe/) or drop me an [email](mailto:igrphillipe@gmail.com).
