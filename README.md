@@ -1,10 +1,23 @@
+<h1 align="center">Igor Aragão</h1>
 
-## 👋🏻 Hello there
+<p align="center">
+  Software Engineer · Recife, Brazil
+</p>
 
-I'm a Front-end Web Developer with a passion for building efficient and scalable applications.
-- 👨‍💻 Currently, my stack includes Next.js, React.js, Tailwind CSS, TypeScript and I am deeply involved in animations using Framer Motion and GSAP.
-- 🎨 In addition to development, I am a Design Engineering enthusiast, seeking to perfectly integrate design and engineering to achieve aesthetic and functional results.
+<p align="center">
+  I build production systems end to end. Architecture, backend, frontend, deploy.<br/>
+  System design, AI-integrated tooling, and developer experience.<br/>
+  Design Engineering enthusiast on the side.
+</p>
 
-## Let's Connect! 📱
+<p align="center">
+  <a href="https://www.igrph.dev/">Website</a> ·
+  <a href="https://www.linkedin.com/in/igrphillipe/">LinkedIn</a> ·
+  <a href="mailto:igrphillipe@gmail.com">Email</a>
+</p>
 
-Interested in connecting with me? Let's chat! You can send me a message on [LinkedIn](https://www.linkedin.com/in/igrphillipe/) or send me an [email](mailto:igrphillipe@gmail.com).
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,python,django,postgres,mongodb,redis,aws,docker,vercel" />
+</p>
