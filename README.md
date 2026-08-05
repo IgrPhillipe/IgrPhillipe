@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.igrph.dev/">Website</a> ·
   <a href="https://www.linkedin.com/in/igrphillipe/">LinkedIn</a> ·
   <a href="mailto:igrphillipe@gmail.com">Email</a>
 </p>
